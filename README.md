@@ -3,8 +3,10 @@
 ## Contenido
 ~~~
     Proyecto Flask que muestra un tabla renderizada con datos
-    enviados a traves de un diccionario desde el servidor flask.
+    enviados a traves de un diccionario desde el servidor flask.  
 ~~~
+
+![Demostracion](Captura.PNG) 
 
 ## **Instalacion y configuracion**
 
@@ -22,8 +24,7 @@
 
     $ git clone https://github.com/JairoFR/Flask_tablero_ajedrez.git
     $ cd Flask_tablero_ajedrez                                     
-
-![Demostracion](Captura.PNG)  
+ 
 
 ####  Instala desde Pipfile los paquetes que vienen configurados: 
     $ pipenv install
