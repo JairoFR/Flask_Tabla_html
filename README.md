@@ -21,7 +21,9 @@
 
 
     $ git clone https://github.com/JairoFR/Flask_tablero_ajedrez.git
-    $ cd Flask_tablero_ajedrez
+    $ cd Flask_tablero_ajedrez                                                                                                                             
+
+![Demostracion](Captura.PNG)  
 
 ####  Instala desde Pipfile los paquetes que vienen configurados: 
     $ pipenv install
