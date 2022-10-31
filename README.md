@@ -1,10 +1,10 @@
 #   Flask: Tabla Html
 
 ## Contenido
-~~~
-    Proyecto Flask que muestra un tabla renderizada con datos
-    enviados a traves de un diccionario desde el servidor flask.  
-~~~
+
+    Proyecto Flask que muestra un tabla renderizada con datos enviados a traves de un 
+    diccionario desde el servidor flask.  
+
 
 ![Demostracion](Captura.PNG) 
 
@@ -22,8 +22,8 @@
 #### Clona el repositorio del proyecto: 
 
 
-    $ git clone https://github.com/JairoFR/Flask_tablero_ajedrez.git
-    $ cd Flask_tablero_ajedrez                                     
+    $ git clone https://github.com/JairoFR/flask_html.git
+    $ cd flask_html                                    
  
 
 ####  Instala desde Pipfile los paquetes que vienen configurados: 
@@ -42,4 +42,3 @@
     2.- Ir a Python: select interpreter ctrl+shift+p.
     3.- Seleccionar el ambiente virtual creado con el nombre de la carpeta.
     4.- Abrir nueva terminal y escribir python servidor.py
-    5.- Escribir rutas especificadas en Seccion contenido.
